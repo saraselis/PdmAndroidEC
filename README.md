@@ -9,15 +9,12 @@
   </a>
 </p>
 
-> Repositório de estudos e desenvovimento da disciplina do IESB
+> Repositório de estudos e desenvovimento da disciplina: Programação para Dispositivos Móveis do curso de engenharia de computação (Iesb).
 
-### 🏠 [Homepage](iesb.edu.br)
-
-## Install
-
-```sh
-notyet
-```
+## Atividades :trophy:
+- [X] Primeiro APP de estudos
+- [X] Calculadora simples
+- [ ] Loading...
 
 ## Author
 
