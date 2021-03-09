@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Primeiro Projeto Curso</string>
+    <string name="escolhaNumero">Digite um numero entre 0 e 10:</string>
+    <string name="jogar">Jogar</string>
+    <string name="numeroSelecionado">Nenhum numero selecionado</string>
+    <string name="hintNumero">Seu numero</string>
+
+</resources>
